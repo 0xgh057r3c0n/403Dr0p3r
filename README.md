@@ -1,4 +1,4 @@
-# 403dr0p3r
+# 403Dr0p3r
 
 ## Overview
 `403dr0p3r` is a Python tool designed to bypass HTTP 403 Forbidden errors using various URL manipulation and header modification techniques. 
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ## Usage
 To run the tool, execute the following command in your terminal:
 ```bash
-python3 403dr0p3r.py
+python3 403Dr0p3r.py
 ```
 
 ### Steps:
